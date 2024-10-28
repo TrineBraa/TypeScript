@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "36f82777be3be77a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cdac97a39677215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa91ec13c18536f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbd86e76d0ae9a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4d712c7fe5e823a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3d9d90c04698311",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2a8b08dab4d2b27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f5c33a759c619e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e79d0a6cf0e1b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d9e80a62070cad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8077232523e1175",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creating and using functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Creating and using functions"
+            }
+          },
+          {
+            "id": "2fa8a496de07ba53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Creating and using functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Creating and using functions"
+            }
+          },
+          {
+            "id": "cc9786cf90c483c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd3509a3e381de6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Creating and using functions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Creating and using functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fa91ec13c18536f5",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Creating and Using Generics.md",
+    "TypeScript-Course",
+    "Pasted image 20241028142723.png",
+    "Pasted image 20241028141953.png",
+    "Pasted image 20241028141414.png",
+    "Pasted image 20241028141313.png",
+    "Pasted image 20241028141236.png",
+    "Pasted image 20241028140602.png",
+    "Pasted image 20241028140510.png",
+    "Pasted image 20241028135748.png",
+    "Pasted image 20241028135530.png",
+    "Pasted image 20241028135348.png",
+    "Creating and Using Classes.md",
+    "Creating and using interfaces.md",
+    "Creating and using functions.md",
+    "Using variables, Types and Enums.md",
+    "Getting Started with TypeScript.md",
+    "TypeScript Fundamentals.md"
+  ]
+}
